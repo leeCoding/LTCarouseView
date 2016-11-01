@@ -3,7 +3,7 @@
 
 ## 使用方法,两种导入方式
 ###  1.搜索pod search “LTCarouseView”
-###  2.拉入Category文件夹中的两个分类文件到项目中
+###  2.拉入LTCarouseView文件夹中文件到项目中
 ###  3.然后导入分类头文件 "LTCarouselView.h" 
 ```
    NSArray *url = @[@"http://e-learning.gzshell.com:9000/lms_data/lms/storage/users_picture/38_57c7935a7db99.jpg",
